@@ -9,15 +9,10 @@ redirect_from:
 
 Hi! I am Najiya Fatma. I graduated with a Ph.D. in Industrial Engineering in June 2024 from the Indian Institute of Technology, Delhi, under the guidance of Prof. Varun Ramamohan. My Ph.D. research focused on studying patients' healthcare-seeking behavior and modeling different patient diversion mechanisms across Indian public healthcare facilities that utilize real-time delay predictions and length of stay (LOS) predictions. 
 
-During my Ph.D., I also worked on projects aimed at improving healthcare delivery operations (real-time delay prediction for kidney transplantation systems) and military operations (dynamic route planning for combat aircraft). For information regarding academic details and research interests. 
+During my Ph.D., I also worked on projects aimed at improving healthcare delivery operations (real-time delay prediction for kidney transplantation systems) and military operations (dynamic route planning for combat aircraft).
 
 
 News
 ======
-1. Book chapter published in
 
-Many of the features of dynamic content management systems 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Book chapter published in Hybrid Modeling and Simulation Conceptualizations, Methods and Applications

@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Najiya Fatma. I graduated with a Ph.D. in Industrial Engineering in June 2024 from the Indian Institute of Technology, Delhi, under the guidance of Prof. Varun Ramamohan. I have completed my B. Tech in Production and Industrial Engineering from the National Institute of Technology, Jamshedpur. My Ph.D. research focused on studying patients' healthcare-seeking behavior and modeling different patient diversion mechanisms across Indian public healthcare facilities that utilize real-time delay predictions and length of stay (LOS) predictions. During my Ph.D., I also worked on projects aimed at improving healthcare delivery operations (real-time delay prediction for kidney transplantation systems) as well as military operations (dynamic route planning for combat aircraft). For information regarding academic details and research interests, see my curriculum vitae.
+Hi! I am Najiya Fatma. I graduated with a Ph.D. in Industrial Engineering in June 2024 from the Indian Institute of Technology, Delhi, under the guidance of Prof. Varun Ramamohan. My Ph.D. research focused on studying patients' healthcare-seeking behavior and modeling different patient diversion mechanisms across Indian public healthcare facilities that utilize real-time delay predictions and length of stay (LOS) predictions. 
+
+During my Ph.D., I also worked on projects aimed at improving healthcare delivery operations (real-time delay prediction for kidney transplantation systems) and military operations (dynamic route planning for combat aircraft). For information regarding academic details and research interests. 
 
 
 News

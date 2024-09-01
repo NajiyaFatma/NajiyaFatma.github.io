@@ -15,4 +15,4 @@ During my Ph.D., I also worked on projects aimed at improving healthcare deliver
 News
 ======
 
-Book chapter published in Hybrid Modeling and Simulation Conceptualizations, Methods and Applications
+Book chapter published in '**Hybrid Modeling and Simulation Conceptualizations, Methods and Applications**'

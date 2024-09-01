@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Najiya Fatma"
+  #name             : "Najiya Fatma"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher"
+  bio              : "Researcher, Simulation modeller"
   location         : "New Delhi, India"
   employer         : "Indian Institute of Technology Delhi"
   #uri              : NajiyaFatma

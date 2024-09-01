@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Najiya Fatma, Ph.D."
+#title: "Najiya Fatma, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/

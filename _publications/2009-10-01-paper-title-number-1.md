@@ -3,8 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Simulation and Machine Learning based Real-Time Delay Prediction for Complex Queueing Systems. Accepted, In Hybrid Modelling and Simulation: Conceptualizations, Methods, and Applications. Springer Nature Series in Simulation Foundations, Methods, and Applications. Editors: Masoud Fakhimi and Navonil Mustafee
-#date: 2009-10-01
+excerpt: Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Simulation and Machine Learning based Real-Time Delay Prediction 
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/Book chapter1.pdf'

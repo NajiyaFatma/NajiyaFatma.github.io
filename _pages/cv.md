@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,3 +21,4 @@ Research experience
   * Aeronautical Development Agency, Defence Research and Development Organisation (DRDO), Government of India
 
   
+For a complete detail of my academic journey so far, please refer to my CV.

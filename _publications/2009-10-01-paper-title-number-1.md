@@ -1,5 +1,5 @@
 ---
-title: "Simulation and Machine Learning Based Real-Time Delay Prediction"
+#title: "Simulation and Machine Learning Based Real-Time Delay Prediction"
 collection: publications
 #category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1

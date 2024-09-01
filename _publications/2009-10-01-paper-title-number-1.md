@@ -1,7 +1,7 @@
 ---
 title: "Simulation and Machine Learning Based Real-Time Delay Prediction"
 collection: publications
-category: manuscripts
+#category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Simulation and Machine Learning based Real-Time Delay Prediction 
 #venue: 'Journal 1'

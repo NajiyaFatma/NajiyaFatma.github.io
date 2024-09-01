@@ -15,5 +15,6 @@ During my Ph.D., I also worked on projects aimed at improving healthcare deliver
 News
 ======
 
-August 202: Book chapter published in '**Hybrid Modeling and Simulation Conceptualizations, Methods and Applications**'
+August 2024: Book chapter published in '**Hybrid Modeling and Simulation Conceptualizations, Methods and Applications**'
+
 June 2024: Ph.D. thesis defended

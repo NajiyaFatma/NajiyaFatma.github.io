@@ -1,4 +1,5 @@
 ---
+Paper: XYZ
 title: "Paper Title Number 4"
 collection: publications
 category: conferences

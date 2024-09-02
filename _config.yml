@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Najiya Fatma"
 title_separator          : "-"
-name                     : &name najiya
+name                     : &name
 description              : &description "personal description"
 #url                      : https://NajiyaFatma.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

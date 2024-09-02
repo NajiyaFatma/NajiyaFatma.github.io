@@ -28,32 +28,14 @@ redirect_from:
 
 ## Technical report (s)
 
-Support for MathJax Version 3.0 is included in the template:
+* Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Aircraft using Network Optimization Methods. November 2023.
 
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
+## Poster presentations and selected talks
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
-
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
-
-## Markdown guide
-
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
+* Najiya Fatma, Varun Ramamohan. Real-Time Public Healthcare Facility Assignment Using Lengths of Stay Prediction. 56th Annual Convention of Operational Research Society of India (2023-ORSI), 18-20, December 2023, IISc Bangalore, India.
+* Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Real-Time Delay Prediction for Kidney Transplantation System. 2023 Winter Simulation Conference, December 10-13, San Antonio, Texas, USA.
+* Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learning Methods for Generating RealTime Outpatient Length-of-Stay Predictions. 2022 Winter Simulation Conference, December 11-14, Singapore. Extended abstract.
+* Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. INFORMS 2021 Annual Meeting, October 24 – 27, California, USA.
 
 ## Blockquotes
 

@@ -14,9 +14,9 @@ During my Ph.D., I also worked on projects aimed at improving healthcare deliver
 Please refer to my [curriculum vitae](https://drive.google.com/file/d/1Xsk0nvcldQVAhom8ZkF6-xZK-C1y5Z4S/view?usp=sharing) to get more details about my academic journey so far.  
 
 
-News
+News and Updates
 ======
 
-**August 2024**: Book chapter published in 'Hybrid Modeling and Simulation Conceptualizations, Methods and Applications'
+**August 2024**: Book chapter published in 'Hybrid Modeling and Simulation Conceptualizations, Methods and Applications'.
 
-**June 2024**: Ph.D. thesis defended
+**June 2024**: Ph.D. thesis defended.

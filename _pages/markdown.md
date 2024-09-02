@@ -13,7 +13,7 @@ redirect_from:
 
 ## Journal publications
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render HTML.
+* Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:10.1371/journal.pgph.0001101.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building

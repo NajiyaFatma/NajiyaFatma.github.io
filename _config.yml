@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Najiya Fatma"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name
 description              : &description "personal description"
 #url                      : https://NajiyaFatma.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   #name             : "Najiya Fatma"
   pronouns         : # example: "she/her"  
-  bio              : "Researcher, Simulation modeller"
+  bio              : "Researcher, Simulation modeler"
   location         : "New Delhi, India"
   employer         : "Indian Institute of Technology Delhi"
   #uri              : NajiyaFatma

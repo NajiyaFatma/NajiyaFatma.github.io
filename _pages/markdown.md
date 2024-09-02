@@ -13,10 +13,10 @@ redirect_from:
 
 ## Journal publications
 
-* Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:10.1371/journal.pgph.0001101.
-* Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476. DOI:10.1007/s00291-022-00704-w.
-* Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. Telemedicine and e-Health, 2024, 30(5), 1341-1356. DOI:10.1101/2328898010.
-* Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. Under review.
+* Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:[10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101).
+* Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476. DOI:[10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w).
+* Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. Telemedicine and e-Health, 2024, 30(5), 1341-1356. DOI:[10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297).
+* Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. Under review. [Manuscript](https://web.iitd.ac.in/~mez188287/JPM.pdf).
 * Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. In preparation
 
 ## Peer-reviewed conference proceedings

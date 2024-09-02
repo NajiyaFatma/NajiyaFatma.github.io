@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Book chapter (s)
+## Book chapters
 
 * Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). [Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems](https://najiyafatma.github.io/files/book%20chapter1.pdf). In Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications (pp. 185-212). Cham: Springer Nature Switzerland.
 
@@ -32,7 +32,7 @@ Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074).
  * Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. Proceedings of the 2020 Winter Simulation Conference, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper.
 DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
 
-## Technical report (s)
+## Technical reports
 
 * Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Aircraft using Network Optimization Methods. November 2023.
 

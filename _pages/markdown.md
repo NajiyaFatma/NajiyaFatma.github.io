@@ -20,8 +20,11 @@ redirect_from:
 * Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. In preparation
 
 ## Peer-reviewed conference proceedings
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+
+ * Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press. DOI: 10.10155357/0010837400003117.
+ * Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems, pp. 56–66, SCITEPress. DOI: 10.5220/0010837400003117.
+ * Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. 2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers. Preprint: arXiv:2101.11074.
+ * Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. Proceedings of the 2020 Winter Simulation Conference, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. DOI: 10.1109/WSC48552.2020.9384069.
 
 ## Technical report (s)
 

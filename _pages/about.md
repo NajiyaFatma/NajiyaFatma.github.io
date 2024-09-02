@@ -17,6 +17,6 @@ Please refer to my [curriculum vitae](https://drive.google.com/file/d/1Xsk0nvcld
 News and Updates
 ======
 
-**August 2024**: Book chapter published in 'Hybrid Modeling and Simulation Conceptualizations, Methods and Applications'.
+**August 2024**: Book chapter published in 'Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications'.
 
 **June 2024**: Ph.D. thesis defended.

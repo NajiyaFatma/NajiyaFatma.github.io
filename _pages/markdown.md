@@ -10,21 +10,8 @@ redirect_from:
 ## Book chapter (s)
 
 * Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems. In Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications (pp. 185-212). Cham: Springer Nature Switzerland.
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _cv/
-  * _guide/
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-    
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
-## Peer-reviewed conference proceedings
+## Journal publications
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
@@ -33,11 +20,11 @@ redirect_from:
   * Red X: error
   * No icon: not built
 
-## Resources
+## Peer-reviewed conference proceedings
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
  * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-## MathJax 
+## Technical report (s)
 
 Support for MathJax Version 3.0 is included in the template:
 

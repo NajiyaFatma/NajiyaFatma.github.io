@@ -12,9 +12,10 @@ Hi! I am Najiya Fatma. I graduated with a Ph.D. in Industrial Engineering in Jun
 During my Ph.D., I also worked on projects aimed at improving healthcare delivery operations (real-time delay prediction for kidney transplantation systems) and military operations (dynamic route planning for combat aircraft).
 
 
+
 News
 ======
 
-August 2024: Book chapter published in '**Hybrid Modeling and Simulation Conceptualizations, Methods and Applications**'
+**August 2024**: Book chapter published in 'Hybrid Modeling and Simulation Conceptualizations, Methods and Applications'
 
-June 2024: Ph.D. thesis defended
+**June 2024**: Ph.D. thesis defended

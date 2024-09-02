@@ -7,10 +7,10 @@
 main:
 
   - title: "Academic and Research Experience"
-    url: /academicandreserachexperience/
+    url: /cv/
 
   - title: "Published Manuscripts"
-    url: /publishedmanuscripts/
+    url: /markdown/
     
   #- title: "Publications"
     #url: /publications/

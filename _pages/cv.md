@@ -20,7 +20,6 @@ Research experience
   * Simulation modeling of organ allocation
   * Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine
 
-======
 
 * July 2024 - September 2024: Early Doctoral Fellow, IIT Delhi
   * Real-time healthcare facility assignment using analytical and simulation-driven machine learning techniques

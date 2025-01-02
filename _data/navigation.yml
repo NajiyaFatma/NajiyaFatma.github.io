@@ -12,13 +12,13 @@ main:
   - title: "Published Manuscripts"
     url: /markdown/
     
-  - title: "Publications"
+  #- title: "Publications"
     url: /publications/
 
   #- title: "Talks"
     #url: /talks/    
 
-  #- title: "Teaching"
+  - title: "Teaching"
     #url: /teaching/    
     
   #- title: "Portfolio"

@@ -18,7 +18,8 @@ Research experience
 ======
 * December 2024 - Research Scientist, NYU Langone Health
   * Simulation modeling of organ allocation
-  * NYU Grossman School of Medicine- Center for Surgical & Transplant Applied Research: C-STAR
+  * Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine
+
 ======
 
 * July 2024 - September 2024: Early Doctoral Fellow, IIT Delhi

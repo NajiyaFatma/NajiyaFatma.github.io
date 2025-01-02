@@ -23,6 +23,8 @@ redirect_from:
 
 ## Peer-reviewed conference proceedings
 
+ * Najiya Fatma, Arya T.R., Kushal Gupta, Soham Das, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript to be submitted to the 11th IFAC Conference on Manufacturing Modelling, Management and
+Control.
  * Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.
 DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357).
  * Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems, pp. 56–66, SCITEPress.

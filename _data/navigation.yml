@@ -12,8 +12,8 @@ main:
   - title: "Published Manuscripts"
     url: /markdown/
     
-  #- title: "Publications"
-    #url: /publications/
+  - title: "Research Interests"
+    url: /terms/
 
   #- title: "Talks"
     #url: /talks/    

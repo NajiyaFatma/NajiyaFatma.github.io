@@ -25,8 +25,8 @@ author:
   #name             : "Najiya Fatma"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, Simulation Modeler"
-  location         : "New Delhi, India"
-  employer         : "Indian Institute of Technology Delhi"
+  #location         : "New Delhi, India"
+  #employer         : "Indian Institute of Technology Delhi"
   #uri              : NajiyaFatma
   email            : "fatmma3@gmail.com" 
 

@@ -14,6 +14,7 @@ Education
 * Ph.D in Industrial Engineering, Indian Institute of Technology Delhi, India [July 2018 - June 2024]
 * B.Tech in Production and Industrial Engineering, National Institute of Technology Jamshedpur, India [July 2014 - June 2018]
 
+
 Research experience
 ======
 * December 2024 - Research Scientist, NYU Langone Health

@@ -25,7 +25,6 @@ Research experience
   * Real-time healthcare facility assignment using analytical and simulation-driven machine learning techniques
   * Industrial Research & Development (IRD) Unit, IIT Delhi
     
-======
 
 * August 2023 - May 2024: Principal Project Scientist, IIT Delhi
   * Dynamic Route Planning of Combat Aircraft using Network Optimisation Algorithms

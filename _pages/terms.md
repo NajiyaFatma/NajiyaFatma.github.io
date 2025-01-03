@@ -1,3 +1,12 @@
+---
+permalink: /terms/
+title: "Research Interests"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /terms.html
+---
+
 I am working/have worked on the following broad categories of work application towards healthcare and dynamic route planning of aircrafts.
 
 

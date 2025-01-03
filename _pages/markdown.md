@@ -7,11 +7,11 @@ redirect_from:
   - /markdown.html
 ---
 
-## Book chapters
+## 1. Book chapters
 
 * Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). [Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems](https://link.springer.com/chapter/10.1007/978-3-031-59999-6_8)). In Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications (pp. 185-212). Cham: Springer Nature Switzerland.
 
-## Journal publications
+## 2. Journal publications
 
 * Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:[10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101).
 * Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476.
@@ -21,7 +21,7 @@ redirect_from:
 * Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. Under review. [Manuscript](https://web.iitd.ac.in/~mez188287/JPM.pdf).
 * Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. In preparation
 
-## Peer-reviewed conference proceedings
+## 3. Peer-reviewed conference proceedings
 
  * Najiya Fatma, Arya T.R., Kushal Gupta, Soham Das, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript to be submitted to the 11th IFAC Conference on Manufacturing Modelling, Management and
 Control.
@@ -34,16 +34,16 @@ Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074).
  * Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. Proceedings of the 2020 Winter Simulation Conference, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper.
 DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
 
-## Technical reports
+## 4. Technical reports
 
 * Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Aircraft using Network Optimization Methods. November 2023.
 
-## Poster presentations and selected talks
+## 5. Poster presentations and selected talks
 
-* Najiya Fatma, Varun Ramamohan. Real-Time Public Healthcare Facility Assignment Using Lengths of Stay Prediction. 56th Annual Convention of Operational Research Society of India (2023-ORSI), 18-20, December 2023, IISc Bangalore, India.
-* Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Real-Time Delay Prediction for Kidney Transplantation System. 2023 Winter Simulation Conference, December 10-13, San Antonio, Texas, USA.
-* Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learning Methods for Generating RealTime Outpatient Length-of-Stay Predictions. 2022 Winter Simulation Conference, December 11-14, Singapore. [Extended abstract](https://informs-sim.org/wsc22papers/pos128.pdf).
-* Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. INFORMS 2021 Annual Meeting, October 24 – 27, California, USA.
+a. Najiya Fatma, Varun Ramamohan. Real-Time Public Healthcare Facility Assignment Using Lengths of Stay Prediction. 56th Annual Convention of Operational Research Society of India (2023-ORSI), 18-20, December 2023, IISc Bangalore, India.
+b. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Real-Time Delay Prediction for Kidney Transplantation System. 2023 Winter Simulation Conference, December 10-13, San Antonio, Texas, USA.
+c. Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learning Methods for Generating RealTime Outpatient Length-of-Stay Predictions. 2022 Winter Simulation Conference, December 11-14, Singapore. [Extended abstract](https://informs-sim.org/wsc22papers/pos128.pdf).
+d. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. INFORMS 2021 Annual Meeting, October 24 – 27, California, USA.
 
 
 

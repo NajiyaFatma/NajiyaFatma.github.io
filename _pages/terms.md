@@ -26,7 +26,7 @@ This work focused on using statistical learning techniques, including regression
 
 **Related works:** <span style="color:blue">2a, 2d, and 2e</span>, as referenced on the published manuscript page.
 
-## 2. Dynamic Route Planning of Combat Aircraft
+## 2. Dynamic route planning of combat aircraft
 This research involved applying network optimization algorithms such as A* and Dijkstra's algorithm to determine minimum-cost routes while avoiding threats and radar emplacements.  <br>
 
 **Related works:** <span style="color:blue">3a and 4</span>, as referenced on the published manuscript page.

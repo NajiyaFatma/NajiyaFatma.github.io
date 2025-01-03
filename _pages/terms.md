@@ -18,9 +18,7 @@ This work involved employing simulation modeling, queuing theory, and machine le
 **Related works:** <span style="color:blue">1 and 5b</span>, as referenced on the published manuscript page.
 
 ### Patient Diversion Across Healthcare Facility Networks
-The approach utilised stochastic modeling (discrete event simulation), analytical queuing theory, and simulation-driven machine learning (Sim-ML) techniques to allocate healthcare facilities to patients, minimising the time required to receive care.  
-
-<br>
+The approach utilised stochastic modeling (discrete event simulation), analytical queuing theory, and simulation-driven machine learning (Sim-ML) techniques to allocate healthcare facilities to patients, minimising the time required to receive care.  <br>
 **Related works:** <span style="color:blue">2b, 2c, 4d, 4e</span>, and others, as referenced on the published manuscript page.
 
 ### Statistical Analysis of Healthcare-Seeking Behaviour and Stakeholders’ Perceptions of Referral Mechanisms

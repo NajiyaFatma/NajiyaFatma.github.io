@@ -13,7 +13,7 @@ redirect_from:
 
 ## 2. Journal publications
 
-a. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:[10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101).
+a. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:[10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
 b. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476.
   DOI:[10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w).
 c. Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. Telemedicine and e-Health, 2024, 30(5), 1341-1356.

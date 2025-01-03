@@ -7,48 +7,27 @@ redirect_from:
   - /terms.html
 ---
 
-I am working/have worked on the following broad categories of work application towards healthcare and dynamic route planning of aircrafts.
+I have been working/have worked on the following broad areas of work, focusing on applications in healthcare and route planning for aircraft.
 
+## Healthcare operation and delivery modeling
 
-## Organ Allocation Simulation
-
-The approach here involved using discrete event simulation, queueing theory, and machine learning algorithms for real-time delay prediction in the kidney transplantation system.
-
-Sample refernces
-
-[1] Hybrid modelling and real-time delay prediction
+### Organ Allocation Simulation
+This work involved employing simulation modeling, queuing theory, and machine learning algorithms to predict real-time delays in the kidney transplantation system. 
 <br>
-[2] Hybrid modelling and real-time delay prediction
+**Related works:** <span style="color:blue">1 and 5b</span>, as referenced on the published manuscript page.
 
-
-### Patient diversion across healthcare facility networksReal-time healthcare facikity 
-
-The approach here involved using stochastic modeling (discrete event simulation), analytical queueing theoretic and simulation-driven machine learning (Sim-ML) technqiues for allocating healthcare facilities to patients where care could be recievd in the minimumtime. 
-
-References
-
-[1] Patient diversion across public primary healthcare facility network
+### Patient Diversion Across Healthcare Facility Networks
+The approach utilised stochastic modeling (discrete event simulation), analytical queuing theory, and simulation-driven machine learning (Sim-ML) techniques to allocate healthcare facilities to patients, minimising the time required to receive care.  
 <br>
-[2] Real-time healthcare facility assignment using queueing theoretic and machine learning predictors
+**Related works:** <span style="color:blue">2b, 2c, 4d, 4e</span>, and others, as referenced on the published manuscript page.
 
-
-All of this information is not linked to anything that is personally identifiable.
-
-### Statistical analysis of healthcare seeking behavior and stakeholders perception towards referral mechanisms
-
-The approach here involved using statistical learning techniques (regression analyses), hypotheitical testing, etc. to statistcially analyse the patients and healthcare providers choices towards different asoects of healthcare.
-
-References
-
-[1] Healthcare seeking behavior analysis
+### Statistical Analysis of Healthcare-Seeking Behaviour and Stakeholders’ Perceptions of Referral Mechanisms
+This work focused on using statistical learning techniques, including regression analyses and hypothesis testing, to analyse patients’ and healthcare providers’ choices regarding various aspects of healthcare. 
 <br>
-[2] Stakeholders perception towards referral mechanisms
+**Related works:** <span style="color:blue">2a, 2d, and 2e</span>, as referenced on the published manuscript page.
 
-#### Dynamic route planning
+## Dynamic Route Planning of Combat Aircraft
+This research involved applying network optimization algorithms such as A* and Dijkstra's algorithm to determine minimum-cost routes while avoiding threats and radar emplacements.  
+<br>
+**Related works:** <span style="color:blue">3a and 4</span>, as referenced on the published manuscript page.
 
-The approach here involved using network optimization algorithms such as A-star, Dijkstra's algorithm to estabkish minimum cost routes by avoding threats and radar emplacements
-
-References
-
-[1] Healthcare seeking behavior analysis
-[2] Stakeholders perception towards referral mechanisms

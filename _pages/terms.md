@@ -12,9 +12,7 @@ I have been working/have worked on the following broad areas of work, focusing o
 ## Healthcare operation and delivery modeling
 
 ### Organ Allocation Simulation
-This work involved employing simulation modeling, queuing theory, and machine learning algorithms to predict real-time delays in the kidney transplantation system. 
-
-<br>
+This work involved employing simulation modeling, queuing theory, and machine learning algorithms to predict real-time delays in the kidney transplantation system. <br>
 **Related works:** <span style="color:blue">1 and 5b</span>, as referenced on the published manuscript page.
 
 ### Patient Diversion Across Healthcare Facility Networks
@@ -22,14 +20,10 @@ The approach utilised stochastic modeling (discrete event simulation), analytica
 **Related works:** <span style="color:blue">2b, 2c, 4d, 4e</span>, and others, as referenced on the published manuscript page.
 
 ### Statistical Analysis of Healthcare-Seeking Behaviour and Stakeholders’ Perceptions of Referral Mechanisms
-This work focused on using statistical learning techniques, including regression analyses and hypothesis testing, to analyse patients’ and healthcare providers’ choices regarding various aspects of healthcare. 
-
-<br>
+This work focused on using statistical learning techniques, including regression analyses and hypothesis testing, to analyse patients’ and healthcare providers’ choices regarding various aspects of healthcare. <br>
 **Related works:** <span style="color:blue">2a, 2d, and 2e</span>, as referenced on the published manuscript page.
 
 ## Dynamic Route Planning of Combat Aircraft
-This research involved applying network optimization algorithms such as A* and Dijkstra's algorithm to determine minimum-cost routes while avoiding threats and radar emplacements.  
-
-<br>
+This research involved applying network optimization algorithms such as A* and Dijkstra's algorithm to determine minimum-cost routes while avoiding threats and radar emplacements.  <br>
 **Related works:** <span style="color:blue">3a and 4</span>, as referenced on the published manuscript page.
 

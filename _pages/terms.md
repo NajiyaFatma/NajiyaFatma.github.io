@@ -7,6 +7,7 @@ redirect_from:
   - /terms.html
 ---
 
+
 I have been working/have worked on the following broad areas of work, focusing on applications in healthcare and route planning for aircraft.
 
 ## 1. Healthcare operation and delivery modeling

@@ -14,17 +14,21 @@ redirect_from:
 ## 2. Journal publications
 
 a. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:[10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
-b. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476.
-  DOI:[10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w).
+
+b. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476. DOI:[10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w). <br>
+
 c. Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. Telemedicine and e-Health, 2024, 30(5), 1341-1356.
-  DOI:[10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297).
-d. Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. Under review. [Manuscript](https://web.iitd.ac.in/~mez188287/JPM.pdf).
+  DOI:[10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297). <br>
+  
+d. Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. Under review. [Manuscript](https://web.iitd.ac.in/~mez188287/JPM.pdf). <br>
+
 e. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. In preparation
 
 ## 3. Peer-reviewed conference proceedings
 
  a. Najiya Fatma, Arya T.R., Kushal Gupta, Soham Das, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript to be submitted to the 11th IFAC Conference on Manufacturing Modelling, Management and
-Control.
+Control. <br>
+
  b. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.
 DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357).
  c. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems, pp. 56–66, SCITEPress.

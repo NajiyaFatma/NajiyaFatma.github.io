@@ -8,6 +8,7 @@ The approach here involved using discrete event simulation, queueing theory, and
 Sample refernces
 
 [1] Hybrid modelling and real-time delay prediction
+<br>
 [2] Hybrid modelling and real-time delay prediction
 
 
@@ -18,6 +19,7 @@ The approach here involved using stochastic modeling (discrete event simulation)
 References
 
 [1] Patient diversion across public primary healthcare facility network
+<br>
 [2] Real-time healthcare facility assignment using queueing theoretic and machine learning predictors
 
 
@@ -30,6 +32,7 @@ The approach here involved using statistical learning techniques (regression ana
 References
 
 [1] Healthcare seeking behavior analysis
+<br>
 [2] Stakeholders perception towards referral mechanisms
 
 #### Dynamic route planning

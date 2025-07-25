@@ -13,4 +13,4 @@ I graduated with a Ph.D. in Industrial Engineering in June 2024 from the [Indian
 
 During my Ph.D., I also worked on projects aimed at improving healthcare delivery operations (real-time delay prediction for kidney transplantation systems) and military operations (dynamic route planning for combat aircraft).
 
-Please refer to my [curriculum vitae]([(https://drive.google.com/file/d/1Xsk0nvcldQVAhom8ZkF6-xZK-C1y5Z4S/view?usp=sharing]) to get more details about my academic journey so far.  
+Please refer to my [curriculum vitae]([https://drive.google.com/file/d/1Xsk0nvcldQVAhom8ZkF6-xZK-C1y5Z4S/view?usp=sharing]) to get more details about my academic journey so far.  

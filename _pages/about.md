@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Najiya Fatma. I am currently working as a Research Scientist with Prof. [Sommer E. Gentry] (https://med.nyu.edu/faculty/sommer-e-gentry) at the Centre for Surgical and Transplant Applied Research (C-STAR) (https://med.nyu.edu/centers-programs/surgical-transplant-applied-research/) at the NYU Grossman School of Medicine, NYU Langone Health, where my work focuses on organ allocation simulation.
+Hi! I am Najiya Fatma. I am currently working as a Research Scientist with Prof. [Sommer E. Gentry](https://med.nyu.edu/faculty/sommer-e-gentry) at the [Centre for Surgical and Transplant Applied Research (C-STAR)](https://med.nyu.edu/centers-programs/surgical-transplant-applied-research/) at the NYU Grossman School of Medicine, NYU Langone Health, where my work focuses on organ allocation simulation.
 
 I graduated with a Ph.D. in Industrial Engineering in June 2024 from the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/), wher I worked with Prof. [Varun Ramamohan](https://web.iitd.ac.in/~varunr/). My Ph.D. research focused on studying patients' healthcare-seeking behavior and modeling different patient diversion mechanisms across Indian public healthcare facilities that utilized real-time delay predictions and length of stay (LOS) predictions using analytical and simulation cum machine-learning-based predictors. 
 

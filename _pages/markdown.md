@@ -44,7 +44,7 @@ Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074). <br>
 
 e. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. Proceedings of the 2020 Winter Simulation Conference, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
 
-## 4. Technical reports
+## 4. Technical reports 
 
 a. Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Aircraft using Network Optimization Methods. November 2023.
 

@@ -19,7 +19,7 @@ a. Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding i
 
 b. Amit Alam, S. Golob, Suhani Patel, Najiya Fatma, Dorry Segev, Allan Massie, M. Moussa, E. Flattery, K. Phillips, Brian Wayda, J.N. Katz, D. Stewart, Sommer Gentry, R.I. Goldberg, S. Rao, A. Reyentovich, Nader Moazami. Consequences of Patient Denial at First
 Exemption Request for Cardiac Transplantation. 2025. Letter to the Editor. The Journal of Heart and Lung 
-Transplantation. DOI:[10.1016/j.healun.2025.06.025](https://pubmed.ncbi.nlm.nih.gov/40691956/)
+Transplantation. DOI: [10.1016/j.healun.2025.06.025](https://pubmed.ncbi.nlm.nih.gov/40691956/)
 
 c. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI: [10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
 

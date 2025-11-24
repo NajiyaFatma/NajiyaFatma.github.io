@@ -73,16 +73,16 @@ f. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diver
 ## 6. Under submission/preparation
 
 a. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. 2026. <br>
-\textbf{Submitted}
+**Submitted**
 
 b. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. <br>
-\textbf{Submitted}
+**Submitted**
    
 c. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. 2026. <br>
-\textbf{Submitted}
+**Submitted**
 
 d. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. 2025. <br>
-\textbf{In preparation}
+**In preparation**
 
 
 

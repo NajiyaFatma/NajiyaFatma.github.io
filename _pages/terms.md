@@ -10,10 +10,10 @@ redirect_from:
 
 I have been working/have worked on the following broad areas of work, focusing on applications in healthcare and route planning for aircraft.
 
-## 1. Healthcare operation and delivery modeling
+## 1. Healthcare Operations and Delivery Modeling
 
 ### a. Organ Allocation Simulation
-This work involved employing simulation modeling, queuing theory, and machine learning algorithms to predict real-time delays in the kidney transplantation system. <br>
+I work on building discrete-event based simulation models of the organ allocation process- currently I am making changes in the existing simulator of kidney allocation and I am also developing a heart allocation simulator from scratch. This work involved employing simulation modeling, queuing theory, and machine learning algorithms to predict real-time delays in the kidney transplantation system. <br>
 
 **Related works:** <span style="color:blue">1 and 5b</span>, as referenced on the published manuscript page.
 
@@ -31,4 +31,7 @@ This work focused on using statistical learning techniques, including regression
 This research involved applying network optimization algorithms such as A* and Dijkstra's algorithm to determine minimum-cost routes while avoiding threats and radar emplacements.  <br>
 
 **Related works:** <span style="color:blue">3a and 4</span>, as referenced on the published manuscript page.
+
+
+
 

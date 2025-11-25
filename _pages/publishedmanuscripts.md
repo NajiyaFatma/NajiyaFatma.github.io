@@ -1,12 +1,11 @@
 ---
-permalink: /markdown/
+permalink: /publishedmanuscripts/
 #title: "Manuscripts"
 author_profile: true
 redirect_from: 
   - /md/
   - /publishedmanuscripts.html
 ---
-
 
 ## 1. Book chapters
 

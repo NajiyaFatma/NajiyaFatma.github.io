@@ -1,7 +1,7 @@
 ---
 layout: archive
 #title: "CV"
-permalink: /are/
+permalink: /academicandresearchexperience/
 author_profile: true
 redirect_from:
   - /resume

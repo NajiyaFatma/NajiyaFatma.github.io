@@ -4,7 +4,7 @@ permalink: /researchinterests/
 author_profile: true
 redirect_from: 
   - /md/
-  - /researchinterests.html
+
 ---
 
 

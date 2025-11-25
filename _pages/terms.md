@@ -50,7 +50,7 @@ I am working/have worked on the following broad objectives:
 I am working/have worked on the following broad objectives: 
 
 - **Develop** least cost routes for aircrafts operating in adversarial or uncertain environments.
-- **Apply** graph-based network optimization algorithms such as A* and Dijkstra's algorithm to generate routes in 2-D and 3-D that account for threats (mountains) and radar emplacements.
+- **Apply** graph-based network optimization algorithms such as A* and Dijkstra's algorithm to generate routes in 2-D and 3-D that account for threats and terrains.
 
 
 

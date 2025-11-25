@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Research Interests"
+#title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My research focuses on using simulation modeling (primarily discrete-event simulation (DES)), operations research methods-including including probability and statistics and advanced modeling techniqes such as machine learning algotithms to understand and improve complex service systems. I am especially interested in real-time decision-making in healthcare and in planning routing operations. 
+My research focuses on using simulation modeling (primarily discrete-event simulation (DES)), operations research methods-including including probability and statistics and advanced modeling techniqes such as machine learning (ML) algorithms to understand and improve complex service systems. I am especially interested in real-time decision-making in healthcare and in planning routing operations. 
 
 ## 1. Healthcare Operations & Delivery Modeling
 
@@ -16,7 +16,7 @@ My research focuses on using simulation modeling (primarily discrete-event simul
 I am working/have worked on the following broad objectives:
 
 - **Develop** a DES model of the heart allocation process from the donors to the recipients.
-- **Develop** statistical (logistic-regression) and machine-learning (ML) frameworks for predicting heart transplant offer acceptances.
+- **Develop** statistical (logistic-regression) and ML frameworks for predicting heart transplant offer acceptances.
 - **Evaluate** counterfactual kidney allocation policies using an existing allocation simulator.
 
 

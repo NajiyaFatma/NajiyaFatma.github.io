@@ -3,9 +3,9 @@ permalink: /publishedmanuscripts/
 #title: "Manuscripts"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /publishedmanuscripts.html
+  - /md
 ---
+
 
 ## 1. Book chapters
 

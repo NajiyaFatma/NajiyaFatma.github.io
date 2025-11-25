@@ -17,16 +17,16 @@ Education
 
 Research experience
 ======
-* December 2024 - Research Scientist, NYU Langone Health
+* December 2024 - Research Scientist
   * Simulation modeling of organ allocation
   * Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine <br>
 
-* July 2024 - September 2024: Early Doctoral Fellow, IIT Delhi
+* July 2024 - September 2024: Early Doctoral Fellow
   * Real-time healthcare facility assignment using analytical and simulation-driven machine learning techniques
   * Industrial Research & Development (IRD) Unit, IIT Delhi <br>
 
-* August 2023 - May 2024: Principal Project Scientist, IIT Delhi
+* August 2023 - May 2024: Principal Project Scientist
   * Dynamic Route Planning of Combat Aircraft using Network Optimisation Algorithms
-  * Aeronautical Development Agency, Defence Research and Development Organisation (DRDO), Government of India
+  * IIT Delhi & Aeronautical Development Agency, Defence Research and Development Organisation (DRDO), Government of India
 
   

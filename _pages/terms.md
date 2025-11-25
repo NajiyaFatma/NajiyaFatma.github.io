@@ -20,7 +20,7 @@ I am working/have worked on the following broad objectives:
 - **Evaluate** counterfactual kidney allocation policies using an existing allocation simulator.
 
 
-I use probability and statistical tools to summarize results from the organ allocation simulators, and I am currently integrating trained ML models directly within the simulator environment. 
+I use probability and statistical tools to summarize results from the organ allocation simulators, and I am currently integrating trained ML models within the simulator environment. 
 
 
 

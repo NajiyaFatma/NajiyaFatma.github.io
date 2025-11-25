@@ -1,10 +1,10 @@
 ---
-permalink: /terms/
+permalink: /researchinterests/
 #title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /md/
-  - /terms.html
+  - /researchinterests.html
 ---
 
 

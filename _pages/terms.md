@@ -8,29 +8,49 @@ redirect_from:
 ---
 
 
-I have been working/have worked on the following broad areas of work, focusing on applications in healthcare and route planning for aircraft.
+My research focuses on using simulation modeling (primarily discrete-event simulation (DES)), operations research methods-including including probability and statistics and advanced modeling techniqes such as machine learning algotithms to understand and improve complex service systems. I am especially interested in real-time decision-making in healthcare and in planning routing operations. 
 
-## 1. Healthcare Operations and Delivery Modeling
+## 1. Healthcare Operations & Delivery Modeling
 
 ### a. Organ Allocation Simulation
-I work on building discrete-event based simulation models of the organ allocation process- currently I am making changes in the existing simulator of kidney allocation and I am also developing a heart allocation simulator from scratch. This work involved employing simulation modeling, queuing theory, and machine learning algorithms to predict real-time delays in the kidney transplantation system. <br>
+I am working/have worked on the following broad objectives:
 
-**Related works:** <span style="color:blue">1 and 5b</span>, as referenced on the published manuscript page.
+- **Develop** a DES model of the heart allocation process from the donors to the recipients.
+- **Develop** statistical (logistic-regression) and machine-learning (ML) frameworks for predicting heart transplant offer acceptances.
+- **Evaluate** counterfactual kidney allocation policies using an existing allocation simulator.
+
+
+I use probability and statistical tools to summarize results from the organ allocation simulators, and I am currently integrating trained ML models directly within the simulator environment. 
+
+
 
 ### b. Patient Diversion Across Healthcare Facility Networks
-The approach utilised stochastic modeling (discrete event simulation), analytical queuing theory, and simulation-driven machine learning (Sim-ML) techniques to allocate healthcare facilities to patients, minimising the time required to receive care.  <br>
 
-**Related works:** <span style="color:blue">2b, 2c, 4d, 4e</span>, and others, as referenced on the published manuscript page.
+I am working/have worked on the following broad objectives:
 
-### c. Statistical Analysis of Healthcare-Seeking Behaviour and Stakeholders’ Perceptions of Referral Mechanisms
-This work focused on using statistical learning techniques, including regression analyses and hypothesis testing, to analyse patients’ and healthcare providers’ choices regarding various aspects of healthcare. <br>
+- **Derive** analytical predictiors using queueing theory and probability distributions to estimate patient wait time.
+- **Design** patient diversion algorithms (from one hospital to another) to balance patient load and overall hospital network utilization
+- **Develop** a hybrid simulation-driven machine learning (*Hybrid Sim-ML*) approach to predict overall length of stay of patients across healthcare facilities
 
-**Related works:** <span style="color:blue">2a, 2d, and 2e</span>, as referenced on the published manuscript page.
+The performce of these objectives were demonstrated within a DES-based hospital network. 
 
-## 2. Dynamic route planning of combat aircraft
-This research involved applying network optimization algorithms such as A* and Dijkstra's algorithm to determine minimum-cost routes while avoiding threats and radar emplacements.  <br>
 
-**Related works:** <span style="color:blue">3a and 4</span>, as referenced on the published manuscript page.
+
+### c. Statistical Modeling of Healthcare-Seeking Behaviour & Referral Pathways
+
+I am working/have worked on the following broad objectives:
+
+- **Develop** cross-sectional surveys for healthcare providers and patients to gather insights into hospital experiences and potential referral mechanisms.
+- **Use** logistic regression (binomial and multinomial) to examine healhcare-seeking behaviour of patients and analyze how patients and providers navigate referral systems. 
+
+
+
+#### Dynamic route planning
+
+I am working/have worked on the following broad objectives: 
+
+- **Develop** least cost routes for aircrafts operating in adversarial or uncertain environments.
+- **Apply** graph-based network optimization algorithms such as A* and Dijkstra's algorithm to generate routes in 2-D and 3-D that account for threats (mountains) and radar emplacements.
 
 
 

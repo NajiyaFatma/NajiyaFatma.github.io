@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-My research focuses on using simulation modeling (primarily discrete-event simulation (DES)), operations research methods-including including probability and statistics, and advanced modeling techniqes such as machine learning (ML) algorithms to understand and improve complex service systems. I am especially interested in real-time decision-making in healthcare and in planning routing operations. 
+My research focuses on applyong simulation modeling (primarily discrete-event simulation (DES))- operations research methods- including probability, statistics, and queueing theory, as well as machine learning (ML) algorithms, to analyze and improve complex service systems. I am especially interested in real-time decision-making in healthcare and in planning routing operations. 
+
 
 ## 1. Healthcare Operations & Delivery Modeling
 
@@ -20,7 +21,7 @@ I am working/have worked on the following broad objectives:
 - **Evaluate** counterfactual kidney allocation policies using an existing allocation simulator.
 
 
-I use probability and statistical tools to summarize results from the organ allocation simulators, and I am currently integrating trained ML models within the simulator environment. 
+I use probability and statistical tools to summarize results from the organ allocation simulators, and I am currently integrating trained ML models within the simulator (DES-based) environment. 
 
 
 
@@ -30,7 +31,7 @@ I am working/have worked on the following broad objectives:
 
 - **Derive** analytical predictiors using queueing theory and probability distributions to estimate patient wait time.
 - **Design** patient diversion algorithms (from one hospital to another) to balance patient load and overall hospital network utilization.
-- **Develop** a hybrid simulation-driven machine learning (*Hybrid Sim-ML*) approach to predict overall length of stay of patients across healthcare facilities.
+- **Develop** a hybrid simulation-driven machine learning (*Hybrid Sim-ML*) approach to estimate patient overall length of stay across healthcare facilities.
 
 The performances of these objectives were demonstrated within a DES-based hospital network. 
 
@@ -50,7 +51,7 @@ I am working/have worked on the following broad objectives:
 I am working/have worked on the following broad objectives: 
 
 - **Develop** least cost routes for aircrafts operating in adversarial or uncertain environments.
-- **Apply** graph-based network optimization algorithms such as A* and Dijkstra's algorithm to generate routes in 2-D and 3-D that account for threats and terrains.
+- **Apply** graph-based network optimization algorithms such as A* and Dijkstra's algorithm to generate routes in 2-D and 3-D accounting for threats and terrains.
 
 
 

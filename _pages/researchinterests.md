@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-My research focuses on applyong simulation modeling (primarily discrete-event simulation (DES))- operations research methods- including probability, statistics, and queueing theory, as well as machine learning (ML) algorithms, to analyze and improve complex service systems. I am especially interested in real-time decision-making in healthcare and in planning routing operations. 
+My research focuses on applyong simulation modeling (primarily discrete-event simulation (DES))- operations research methods- including probability, statistics, and queueing theory, as well as machine learning (ML) algorithms, to analyze and improve complex service systems. I am currently focused on real-time decision-making in healthcare and the planning routing operations. 
+
 
 
 ## 1. Healthcare Operations & Delivery Modeling

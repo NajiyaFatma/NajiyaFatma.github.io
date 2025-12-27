@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Industrial Engineering, Indian Institute of Technology Delhi, India [2018 - 2024]
-* B.Tech, Production & Industrial Engineering, National Institute of Technology Jamshedpur, India [2014 - 2018]
+* Ph.D in Industrial Engineering, Indian Institute of Technology Delhi, India [2018 - 2024]
+* B.Tech in Production & Industrial Engineering, National Institute of Technology Jamshedpur, India [2014 - 2018]
 
 
 Research experience

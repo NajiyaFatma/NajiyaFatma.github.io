@@ -69,7 +69,7 @@ e. Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learn
 
 f. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. **INFORMS 2021 Annual Meeting**, October 24 – 27, California, USA.
 
-## 6. Under submission/In preparation/To be decided
+## 6. Under submission / In preparation / To be decided
 
 a. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript submitted to **To be decided**. <br>
 

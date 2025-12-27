@@ -6,10 +6,10 @@ redirect_from:
   - /md
 ---
 
-Pubished/Under submission/In preparation
+All work, including work in progress, is listed. The work falls into one of the following categories: Published / Under submission / In preparation.
 
 
-## 1. Book chapters
+## 1. Book chapter(s)
 
 a. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems. In **Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications** (pp. 185-212). Cham: Springer Nature Switzerland. <br>
 DOI: [10.1007/978-3-031-59999-6_8](https://doi.org/10.1007/978-3-031-59999-6_8)
@@ -36,21 +36,19 @@ DOI: [10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s002
 
 ## 3. Peer-reviewed conference proceedings
 
-a. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript submitted to **Proceedings of ICORES 2026: 15th International Conference on Operations Research & Enterprise Systems**. <br>
-
-b. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. **Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference**, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.<br>
+a. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. **Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference**, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.<br>
 DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357). <br>
 
-c. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. **Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems**, pp. 56–66, SCITEPress.<br>
+b. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. **Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems**, pp. 56–66, SCITEPress.<br>
 DOI: [10.5220/0010837400003117](https://www.scitepress.org/PublishedPapers/2022/108374/pdf/index.html). <br>
 
-d. Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. **2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings**, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers (IISE).<br>
+c. Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. **2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings**, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers (IISE).<br>
 Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074). <br>
 
-e. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. **Proceedings of the 2020 Winter Simulation Conference**, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. <br>
+d. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. **Proceedings of the 2020 Winter Simulation Conference**, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. <br>
 DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
 
-## 4. Technical reports 
+## 4. Technical report(s) 
 
 a. Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Aircraft using Network Optimization Methods. November 2023.
 
@@ -71,18 +69,20 @@ e. Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learn
 
 f. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. **INFORMS 2021 Annual Meeting**, October 24 – 27, California, USA.
 
-## 6. Under submission/preparation
+## 6. Under submission/In preparation/To be decided
 
-a. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. 2026. <br>
+a. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript submitted to **To be decided**. <br>
+
+b. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. 2026. <br>
 **Submitted**
 
-b. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. <br>
+c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. <br>
 **Submitted**
    
-c. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. 2026. <br>
+d. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. 2026. <br>
 **Submitted**
 
-d. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. 2025. <br>
+e. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. 2025. <br>
 **In preparation**
 
 

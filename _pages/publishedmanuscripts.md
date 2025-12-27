@@ -71,7 +71,7 @@ f. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diver
 
 ## 6. Under submission / In preparation / To be decided
 
-a. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript submitted to **To be decided**. <br>
+a. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. **To be decided**. <br>
 
 b. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. 2026. <br>
 **Submitted**

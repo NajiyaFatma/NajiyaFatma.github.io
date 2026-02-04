@@ -53,12 +53,14 @@ I am working/have worked on the following broad objectives:
 We conducted surveys from different stakeholders at the Indian public healthcare facilities and incorporated their feedbacks in algorithms developed in **2a**.
 
 
-## 2. Dynamic route planning
+## 3. Dynamic route planning
 
 I am working/have worked on the following broad objectives: 
 
 - **Develop** least cost routes for aircrafts operating in adversarial or uncertain environments.
 - **Apply** graph-based network optimization algorithms such as A* and Dijkstra's algorithm to generate routes in 2-D and 3-D accounting for threats and terrains.
+
+We evaluated the performance of the modified A* algorithms using a synthetic digital terrain elevation dataset.
 
 
 

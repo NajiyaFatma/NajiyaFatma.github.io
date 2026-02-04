@@ -12,22 +12,25 @@ My research focuses on applying simulation modeling (primarily discrete-event si
 
 
 
-## 1. Healthcare Operations & Delivery Modeling
+## 1. Organ Allocation Simulation Modeling
 
-### a. Organ Allocation Simulation
+### a. Develop organ allocation simulation models from scratch
 I am working/have worked on the following broad objectives:
 
 - **Develop** a DES model of the heart allocation process from the donors to the recipients
 - **Develop** statistical (logistic-regression) and ML frameworks for predicting heart transplant offer acceptances
 - **Evaluate** counterfactual heart allocation policies using the DES-based heart simulator and evaluate if any disparity arises within the candidate subgroups
+
+### b. Reuse the existing organ allocation simulations
 - **Evaluate** counterfactual kidney allocation policies using an existing allocation simulator
 
 
 I use probability and statistical tools to summarize results from the organ allocation simulators, and I am currently integrating trained ML models within the simulator (DES-based) environment. 
 
 
+## 2. Healthcare Delivery Modeling
 
-### b. Patient Diversion Across Healthcare Facility Networks
+### a. Patient Diversion Across Healthcare Facility Networks
 
 I am working/have worked on the following broad objectives:
 
@@ -40,14 +43,14 @@ We demonstrated the performances of these algorithms via a case study of healthc
 
 
 
-### c. Statistical Modeling of Healthcare-Seeking Behaviour & Referral Pathways
+### b. Statistical Modeling of Healthcare-Seeking Behaviour & Referral Pathways
 
 I am working/have worked on the following broad objectives:
 
 - **Develop** cross-sectional surveys for healthcare providers and patients to gather insights into hospital experiences and potential referral mechanisms.
 - **Use** logistic regression (binomial and multinomial) to examine healhcare-seeking behaviour of patients and analyze how patients and providers navigate referral systems. 
 
-We conducted surveys from different stakeholders at the Indian public healthcare facilities and incorporated their feedbacks in algorithms developed in **1b**.
+We conducted surveys from different stakeholders at the Indian public healthcare facilities and incorporated their feedbacks in algorithms developed in **2a**.
 
 
 ## 2. Dynamic route planning

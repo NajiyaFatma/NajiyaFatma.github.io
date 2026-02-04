@@ -30,9 +30,10 @@ I use probability and statistical tools to summarize results from the organ allo
 
 I am working/have worked on the following broad objectives:
 
-- **Derive** analytical predictiors using queueing theory and probability distributions to estimate patient wait time.
-- **Design** patient diversion algorithms (from one hospital to another) to balance patient load and overall hospital network utilization.
-- **Develop** a hybrid simulation-driven machine learning (*Hybrid Sim-ML*) approach to estimate patient overall length of stay across healthcare facilities.
+- **Derive** analytical predictiors using queueing theory and probability distributions to estimate patient wait time
+- **Design** patient diversion algorithms (across healthcare network) that takes into consideratios real-time wait estimates
+- **Develop** a hybrid analytical queuing theoretic (AQT) and simulation-driven machine learning (*Hybrid Sim-ML*) approach to estimate patient overall length of stay across healthcare facilities
+- **Design** facility assignkent algorithms that takes into consideratios real-time length of stay estimates
 
 The performances of these objectives were demonstrated within a DES-based hospital network. 
 

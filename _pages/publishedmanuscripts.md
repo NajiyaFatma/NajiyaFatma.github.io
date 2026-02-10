@@ -9,10 +9,13 @@ redirect_from:
 All work, including work in progress, is listed. The work falls into one of the following categories: Published / Under submission / In preparation.
 
 
-## 1. Book chapter(s)
+## 1. <h3 style="font-size:1.1em;">1. Book chapter(s)</h3>
 
-a. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems. In **Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications** (pp. 185-212). Cham: Springer Nature Switzerland. <br>
-DOI: [10.1007/978-3-031-59999-6_8](https://doi.org/10.1007/978-3-031-59999-6_8)
+<small>
+a. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems. In <strong>Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications</strong> (pp. 185–212). Cham: Springer Nature Switzerland. <br>
+DOI: <a href="https://doi.org/10.1007/978-3-031-59999-6_8">10.1007/978-3-031-59999-6_8</a>
+</small>
+
 
 
 ## 2. Journal publications
@@ -24,11 +27,11 @@ b. Amit Alam, S. Golob, Suhani Patel, Najiya Fatma, Dorry Segev, Allan Massie, M
 Exemption Request for Cardiac Transplantation. 2025. Letter to the Editor. **The Journal of Heart and Lung Transplantation**. <br>
 DOI: [10.1016/j.healun.2025.06.025](https://pubmed.ncbi.nlm.nih.gov/40691956/)
 
-c. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. **PLOS Global Public Health**, 2023, 3(9), e0001101. <br>
-DOI: [10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
-
-d. Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. **Telemedicine and e-Health**, 2024, 30(5), 1341-1356. <br>
+c. Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. **Telemedicine and e-Health**, 2024, 30(5), 1341-1356. <br>
 DOI: [10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297). <br>
+
+d. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. **PLOS Global Public Health**, 2023, 3(9), e0001101. <br>
+DOI: [10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
 
 e. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. **OR Spectrum**, 2023; 45:437-476. <br>
 DOI: [10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w). <br>

@@ -17,6 +17,8 @@ DOI: <a href="https://doi.org/10.1007/978-3-031-59999-6_8">10.1007/978-3-031-599
 </span>
 
 
+<span style="font-size:0.7em;"> a. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). Simulation and Machine Learning Based Real-Time Delay Predfdiction for Complex Queuing Systems. In <strong>Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications</strong> (pp. 185–212). Cham: Springer Nature Switzerland. <br> DOI: <a href="https://doi.org/10.1007/978-3-031-59999-6_8">10.1007/978-3-031-59999-6_8</a> </span>
+
 
 ## 2. Journal publications
 

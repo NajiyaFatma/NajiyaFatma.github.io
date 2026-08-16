@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* December 2024 - Research Scientist
+* December 2024 - till present: Research Scientist
   * Simulation modeling of organ allocation
   * Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine <br>
 

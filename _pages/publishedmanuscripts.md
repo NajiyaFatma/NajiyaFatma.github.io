@@ -90,7 +90,7 @@ g. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diver
 
 ## 6. Under submission / In preparation / To be decided
 
-a. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. **{Under Review in Journal of Heart and Lung Transplantation Open**. <br>
+a. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. **Under Review in Journal of Heart and Lung Transplantation Open**. <br>
 
 b. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation \textit{cum} Machine Learning Based Real-Time Length of Stay Predictors. 2025. \textbf{Under reject and resubmit in  Omega} <br>
 Preprint: [arXiv:2602.0792](https://arxiv.org/abs/2602.07921)

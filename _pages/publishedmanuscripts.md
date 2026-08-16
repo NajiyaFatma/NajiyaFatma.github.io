@@ -49,10 +49,10 @@ DOI: [10.1016/j.ajt.2026.05.237](https://www.sciencedirect.com/science/article/p
 b. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. **American Journal of Transplantation (AJT) 2026**, Volume 25, Issue 8 Supplement 1. <br>
 DOI: [10.1016/j.ajt.2026.05.1287](https://www.amjtransplant.org/article/S1600-6135(26)01555-8/fulltext)
 
-c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden, Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. **World Transplant Congress (WTC) 2025**, Volume 25, Issue 8 Supplement 1. <br>
+c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden, Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. **American Journal of Transplantation (AJT) 2025**, Volume 25, Issue 8 Supplement 1. <br>
 DOI: [10.1016/j.ajt.2025.07.064](https://www.amjtransplant.org/article/S1600-6135(25)00443-5/fulltext)
 
-d. Golob S., Suhani Patel, Darren Stewart, Najiya Fatma, Dorry Segev, Allan Massie, Moussa M., Rana M., Singh P., Flattery E., Phillips K., Brian Wayda, Katz J., Goldberg R., Rao S., Reyentovich A., Nader Moazami, Amit Alam. Outcomes of Patients Denied First Listing by Exception Request. **World Transplant Congress (WTC) 2025**, Volume 25, Issue 8 Supplement 1. <br>
+d. Golob S., Suhani Patel, Darren Stewart, Najiya Fatma, Dorry Segev, Allan Massie, Moussa M., Rana M., Singh P., Flattery E., Phillips K., Brian Wayda, Katz J., Goldberg R., Rao S., Reyentovich A., Nader Moazami, Amit Alam. Outcomes of Patients Denied First Listing by Exception Request. **American Journal of Transplantation (AJT) 2025**, Volume 25, Issue 8 Supplement 1. <br>
 DOI: [10.1016/j.ajt.2025.07.1359](https://www.amjtransplant.org/article/S1600-6135(25)01738-1/fulltext)
 
 e. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. **Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference**, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.<br>

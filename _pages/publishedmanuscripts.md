@@ -40,18 +40,32 @@ e. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predic
 DOI: [10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w). <br>
   
 
-## 3. Peer-reviewed conference proceedings
+## 3. Peer-reviewed conference proceedings/Published short abstracts
 
-a. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. **Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference**, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.<br>
+
+a. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. **American Journal of Transplantation (AJT)**, Volume 25, Issue 8 Supplement 1. <br>
+DOI: [10.1016/j.ajt.2026.05.237](https://www.sciencedirect.com/science/article/pii/S1600613526005034)
+
+
+b. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. **(American Journal of Transplantation (AJT))**, Volume 25, Issue 8 Supplement 1. <br>
+DOI: [10.1016/j.ajt.2026.05.1287](https://www.amjtransplant.org/article/S1600-6135(26)01555-8/fulltext)
+
+c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden, Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. **World Transplant Congress**, Volume 25, Issue 8 Supplement 1. <br>
+DOI: [10.1016/j.ajt.2025.07.064](https://www.amjtransplant.org/article/S1600-6135(25)00443-5/fulltext)
+
+d. Golob S., Suhani Patel, Darren Stewart, Najiya Fatma, Dorry Segev, Allan Massie, Moussa M., Rana M., Singh P., Flattery E., Phillips K., Brian Wayda, Katz J., Goldberg R., Rao S., Reyentovich A., Nader Moazami, Amit Alam. Outcomes of Patients Denied First Listing by Exception Request. **World Transplant Congress**, Volume 25, Issue 8 Supplement 1. <br>
+DOI: [10.1016/j.ajt.2025.07.1359](https://www.amjtransplant.org/article/S1600-6135(25)01738-1/fulltext)
+
+e. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. **Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference**, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.<br>
 DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357). <br>
 
-b. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. **Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems**, pp. 56–66, SCITEPress.<br>
+f. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. **Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems**, pp. 56–66, SCITEPress.<br>
 DOI: [10.5220/0010837400003117](https://www.scitepress.org/PublishedPapers/2022/108374/pdf/index.html). <br>
 
-c. Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. **2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings**, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers (IISE).<br>
+g. Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. **2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings**, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers (IISE).<br>
 Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074). <br>
 
-d. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. **Proceedings of the 2020 Winter Simulation Conference**, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. <br>
+h. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. **Proceedings of the 2020 Winter Simulation Conference**, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. <br>
 DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
 
 ## 4. Technical report(s) 
@@ -60,36 +74,35 @@ a. Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Air
 
 ## 5. Poster presentations and selected talks
 
-a. Najiya Fatma, Suhani S. Patel, Grace R. Lyden, Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. **World Transplant Congress**, 2-6, August 2025, San Francisco, USA. <br>
-DOI: [10.1016/j.ajt.2025.07.064](https://www.amjtransplant.org/article/S1600-6135(25)00443-5/fulltext)
+a.  Najiya Fatma, Jiayi Cheng, Brian Wayda, Nader Moazami, Sommer Gentry. Modeling Heart Transplant Offer Acceptance with Machine Learning. **INFORMS Healthcare Conference**, July 28 - 30, 2026. Raleigh, North Carolina, USA. <br>
 
-b. Golob S., Suhani Patel, Darren Stewart, Najiya Fatma, Dorry Segev, Allan Massie, Moussa M., Rana M., Singh P., Flattery E., Phillips K., Brian Wayda, Katz J., Goldberg R., Rao S., Reyentovich A., Nader Moazami, Amit Alam. Outcomes of Patients Denied First Listing by Exception Request. **World Transplant Congress**, 2-6, August 2025, San Francisco, USA. <br>
-DOI: [10.1016/j.ajt.2025.07.1359](https://www.amjtransplant.org/article/S1600-6135(25)01738-1/fulltext)
+b. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. **American Transplant Congress**, June 20 - 24, 2026. Boston, Massachusetts, USA. <br>
 
-c. Najiya Fatma, Varun Ramamohan. Real-Time Public Healthcare Facility Assignment Using Lengths of Stay Prediction. **56th Annual Convention of Operational Research Society of India (2023-ORSI)**, 18-20, December 2023, IISc Bangalore, India. <br>
+c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. \textbf{World Transplant Congress}, 2-6, August 2025, San Francisco, USA. <br>
 
-d. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Real-Time Delay Prediction for Kidney Transplantation System. **2023 Winter Simulation Conference**, December 10-13, San Antonio, Texas, USA. <br>
+d. Najiya Fatma, Varun Ramamohan. Real-Time Public Healthcare Facility Assignment Using Lengths of Stay Prediction. **56th Annual Convention of Operational Research Society of India (2023-ORSI)**, 18-20, December 2023, IISc Bangalore, India. <br>
 
-e. Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learning Methods for Generating RealTime Outpatient Length-of-Stay Predictions. **2022 Winter Simulation Conference**, December 11-14, Singapore. <br>
+e. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Real-Time Delay Prediction for Kidney Transplantation System. **2023 Winter Simulation Conference**, December 10-13, San Antonio, Texas, USA. <br>
+
+f. Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learning Methods for Generating RealTime Outpatient Length-of-Stay Predictions. **2022 Winter Simulation Conference**, December 11-14, Singapore. <br>
 [Extended abstract](https://informs-sim.org/wsc22papers/pos128.pdf). <br>
 
-f. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. **INFORMS 2021 Annual Meeting**, October 24 – 27, California, USA.
+g. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. **INFORMS 2021 Annual Meeting**, October 24 – 27, California, USA.
 
 ## 6. Under submission / In preparation / To be decided
 
-a. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. **To be decided**. <br>
+a. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. **{Under Review in Journal of Heart and Lung Transplantation Open**. <br>
 
-b. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. 2026. <br>
-**Submitted**
+b. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation \textit{cum} Machine Learning Based Real-Time Length of Stay Predictors. 2025. \textbf{Under reject and resubmit in  Omega} <br>
+Preprint: [arXiv:2602.0792](https://arxiv.org/abs/2602.07921)
 
-c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden , Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. 2025. <br>
-**Submitted**
-   
-d. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. 2026. <br>
-**Submitted**
+c. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. Evaluating Allocation of Marginal Kidneys Based on Reverse-Priority and Acceptance Probability Using the Non-Use Organ Allocation Simulator. **In preparation**
 
-e. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. 2025. <br>
-**In preparation**
+d. Najiya Fatma, Yanjie He, Daniyar Akhizhanov, Fynn Comerford, Michal Mankowski. Cryopreservation-Based Organ Banking to Address Logistical Kidney Discard: A Simulation Study of  Waitlist Mortality, Wait Time, and Transplant Volume. **In preparation**
+
+e. Najiya Fatma, Jiayi Cheng, Brian Wayda, Nader Moazami, Sommer Gentry. Modeling Heart Transplant Offer Acceptance with Machine Learning. **In preparation**
+
+f. Najiya Fatma, Soham Das, Arya T.R., Kushal Gupta, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. 2026. **In revision after rejection**
 
 
 

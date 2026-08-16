@@ -24,20 +24,20 @@ DOI: <a href="https://doi.org/10.1007/978-3-031-59999-6_8">10.1007/978-3-031-599
 ## 2. Journal publications
 
 a. Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. 2025. **BMC Health Services Research**. 25, 1428 (2025). <br>
-DOI: [10.1186/s12913-025-13602-y](https://doi.org/10.1186/s12913-025-13602-y). <br>
+DOI: [10.1186/s12913-025-13602-y](https://doi.org/10.1186/s12913-025-13602-y) <br>
 
 b. Amit Alam, S. Golob, Suhani Patel, Najiya Fatma, Dorry Segev, Allan Massie, M. Moussa, E. Flattery, K. Phillips, Brian Wayda, J.N. Katz, D. Stewart, Sommer Gentry, R.I. Goldberg, S. Rao, A. Reyentovich, Nader Moazami. Consequences of Patient Denial at First
 Exemption Request for Cardiac Transplantation. 2025. Letter to the Editor. **The Journal of Heart and Lung Transplantation**. <br>
 DOI: [10.1016/j.healun.2025.06.025](https://pubmed.ncbi.nlm.nih.gov/40691956/)
 
 c. Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. **Telemedicine and e-Health**, 2024, 30(5), 1341-1356. <br>
-DOI: [10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297). <br>
+DOI: [10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297) <br>
 
 d. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. **PLOS Global Public Health**, 2023, 3(9), e0001101. <br>
-DOI: [10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
+DOI: [10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101) <br>
 
 e. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. **OR Spectrum**, 2023; 45:437-476. <br>
-DOI: [10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w). <br>
+DOI: [10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w) <br>
   
 
 ## 3. Peer-reviewed conference proceedings/Published short abstracts

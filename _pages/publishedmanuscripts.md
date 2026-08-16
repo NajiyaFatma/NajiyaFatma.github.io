@@ -8,7 +8,7 @@ redirect_from:
 
 
 <span style="font-size:0.9em;">
-All work, including work in progress, is listed. The work falls into one of the following categories: Published / Under submission / In preparation.
+All work, including work in progress, is listed. The work falls into one of the following categories: Published/ Under submission/ In preparation.
 </span>
 
 <h3 style="font-size:1.1em;">1. Book chapter(s)</h3>

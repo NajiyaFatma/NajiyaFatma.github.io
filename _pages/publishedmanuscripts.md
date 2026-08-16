@@ -43,14 +43,14 @@ DOI: [10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s002
 ## 3. Peer-reviewed conference proceedings/Published short abstracts
 
 
-a. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. **American Journal of Transplantation (AJT)**, Volume 25, Issue 8 Supplement 1. <br>
+a. Najiya Fatma, Bayzhan Mukatay, Meghan E. Meredith, Daniyar Akizhanov, Dorry L. Segev, Bonnie E. Lonze, Sommer E. Gentry. A Simulation of Decreasing Non-use by Allocating Non-Ideal Kidneys in Reverse-Priority Order and Decreasing Acceptance Probability Order. **American Journal of Transplantation (AJT) 2026**, Volume 25, Issue 8 Supplement 1. <br>
 DOI: [10.1016/j.ajt.2026.05.237](https://www.sciencedirect.com/science/article/pii/S1600613526005034)
 
 
-b. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. **(American Journal of Transplantation (AJT))**, Volume 25, Issue 8 Supplement 1. <br>
+b. Bayzhan Mukatay, Najiya Fatma, Ruiqi Xue, Daniyar Akhizhanov, Michal A. Mankowski, Allan B. Massie, Sommer E. Gentry. Designing a Longevity Matching Policy for Continuous Distribution using Simulation Optimization. **American Journal of Transplantation (AJT) 2026**, Volume 25, Issue 8 Supplement 1. <br>
 DOI: [10.1016/j.ajt.2026.05.1287](https://www.amjtransplant.org/article/S1600-6135(26)01555-8/fulltext)
 
-c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden, Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. **World Transplant Congress**, Volume 25, Issue 8 Supplement 1. <br>
+c. Najiya Fatma, Suhani S. Patel, Grace R. Lyden, Nader Moazami, Brian Wayda, William F. Parker, Sommer E. Gentry. Waitlist Mortality Risk (US-CRS Score) Distribution Among Status 1 and 2 Adult Heart Transplant Candidates with Exceptions. **World Transplant Congress (WTC) 2025**, Volume 25, Issue 8 Supplement 1. <br>
 DOI: [10.1016/j.ajt.2025.07.064](https://www.amjtransplant.org/article/S1600-6135(25)00443-5/fulltext)
 
 d. Golob S., Suhani Patel, Darren Stewart, Najiya Fatma, Dorry Segev, Allan Massie, Moussa M., Rana M., Singh P., Flattery E., Phillips K., Brian Wayda, Katz J., Goldberg R., Rao S., Reyentovich A., Nader Moazami, Amit Alam. Outcomes of Patients Denied First Listing by Exception Request. **World Transplant Congress**, Volume 25, Issue 8 Supplement 1. <br>

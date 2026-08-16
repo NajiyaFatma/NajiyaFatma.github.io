@@ -56,16 +56,16 @@ d. Golob S., Suhani Patel, Darren Stewart, Najiya Fatma, Dorry Segev, Allan Mass
 DOI: [10.1016/j.ajt.2025.07.1359](https://www.amjtransplant.org/article/S1600-6135(25)01738-1/fulltext)
 
 e. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. **Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference**, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.<br>
-DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357). <br>
+DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357) <br>
 
 f. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. **Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems**, pp. 56–66, SCITEPress.<br>
-DOI: [10.5220/0010837400003117](https://www.scitepress.org/PublishedPapers/2022/108374/pdf/index.html). <br>
+DOI: [10.5220/0010837400003117](https://www.scitepress.org/PublishedPapers/2022/108374/pdf/index.html) <br>
 
 g. Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. **2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings**, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers (IISE).<br>
-Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074). <br>
+Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074) <br>
 
 h. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. **Proceedings of the 2020 Winter Simulation Conference**, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper. <br>
-DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
+DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069)
 
 ## 4. Technical report(s) 
 
